@@ -26,7 +26,7 @@
 Модуль будет работать и поддерживаться до тех пор пока позволяет код оригинального приложения. Поддержка может прерваться после любого из обновлений оригинального приложения.
 
 ### Автор: 
-[4pda](http://4pda.to/forum/index.php?showuser=2084748) или [Telegram](https://t.me/Blue_cat1)
+[4pda](https://4pda.to/forum/index.php?showtopic=603033&view=findpost&p=117340204) или [Telegram](https://t.me/Blue_cat1)
 
 
 ## For non-Russian users:
