@@ -1,6 +1,8 @@
 # Mir Pay Security
-Обход проверок безопасности приложения [Mir Pay](https://play.google.com/store/apps/details?id=ru.nspk.mirpay). Модуль не содержит интерфейса, его достаточно включить в менеджере.
-Модуль является аналогом но не единственным средством.
+Обход проверок безопасности приложения [Mir Pay](https://privetmir.ru/mirpay/). 
+
+### Информация:
+Не содержит интерфейса, его достаточно включить в менеджере. Модуль является аналогом но не единственным средством.
 
 ### Возможности:
 - Скрытие от различных проверок безопасности
@@ -9,7 +11,8 @@
 
 ### Требования:
 - Android 7.0+
-- Установленное приложение Mir Pay. Минимальная версия - 1.18.3.347(255)
+- Установленное приложение [Mir Pay](https://privetmir.ru/mirpay/)
+- Минимальная версия - 1.18.3.347 (255)
 
 ### Решение проблем:
 - Выскакивает ошибка / вылетает при запуске после установки модуля?
@@ -20,4 +23,4 @@
 
 
 ## For non-Russian users:
-This is a module for the russian application [Mir Pay](https://play.google.com/store/apps/details?id=ru.nspk.mirpay), you don't need to use it, target app working only in Russia.
+This is a module for the russian application [Mir Pay](https://privetmir.ru/mirpay/), you don't need to use it, app working only in Russia.
