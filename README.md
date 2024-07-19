@@ -13,14 +13,10 @@
 ### Информация:
 Не содержит интерфейса, его достаточно включить в менеджере. Модуль является аналогом но не единственным средством.
 
-### Возможности:
-- Скрытие от различных проверок безопасности
-- Скрытие карточек на главной с промо товарами
-
 ### Требования:
 - Android 7.0+
 - Установленное приложение [Mir Pay](https://www.rustore.ru/catalog/app/ru.nspk.mirpay)
-- Минимальная версия - 1.28.8.340 (285)
+- Минимальная версия - 1.46.3.350 (315)
 
 ## For non-Russian users:
 This is a module for the russian application [Mir Pay](https://www.rustore.ru/catalog/app/ru.nspk.mirpay), you don't need to use it, app working only in Russia.
